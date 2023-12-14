@@ -1,2 +1,2 @@
 test file2
-
+This line is added developer2
